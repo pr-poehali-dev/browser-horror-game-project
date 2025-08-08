@@ -61,7 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Horror game specific colors
+				'blood-red': '#1A0B0B',
+				'deep-crimson': '#8B0000',
+				'shadow-black': '#0D0000',
+				'bone-white': '#F5F5DC',
+				'gothic-gray': '#2C1810'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
